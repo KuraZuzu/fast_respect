@@ -1,0 +1,35 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 866d464d-b1d7-468a-bd27-3467ed016680)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "RX" (shape bidirectional) (at 100.33 95.25 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 0fd63305-711f-4e6b-9572-7e0a7cfda791)
+  )
+  (hierarchical_label "NRST" (shape bidirectional) (at 97.79 73.66 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 1b57189e-6ee7-4243-9230-4c6737a9ce25)
+  )
+  (hierarchical_label "SWO" (shape bidirectional) (at 99.06 105.41 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 28c6a6e8-e8ac-443e-b996-03f525c087ca)
+  )
+  (hierarchical_label "TCK" (shape bidirectional) (at 96.52 100.33 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 466e6640-1c85-451d-aa2a-ca4579baf2e8)
+  )
+  (hierarchical_label "TMS" (shape bidirectional) (at 97.79 91.44 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid bbe8dbe9-830c-43ae-a651-a413b4f6e614)
+  )
+  (hierarchical_label "TX" (shape bidirectional) (at 101.6 85.09 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid ee6af598-f7e0-4a49-a151-0cf88660a9cd)
+  )
+)
