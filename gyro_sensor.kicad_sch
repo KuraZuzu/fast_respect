@@ -376,7 +376,7 @@
   (symbol (lib_id "ICM-42688-P:ICM-42688-P") (at 113.03 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 361eef33-d984-447a-9d3b-676fe3102bcf)
-    (property "Reference" "U5_1" (at 116.84 62.23 0)
+    (property "Reference" "U6_1" (at 116.84 62.23 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "ICM-42688-P" (at 121.92 64.77 0)
@@ -405,7 +405,7 @@
     (instances
       (project "fast_respect"
         (path "/588ca8cd-b11b-4b55-96d9-278aac6cd0cf/c0d943d8-7bed-4ffd-b406-edd8b25f7433"
-          (reference "U5_1") (unit 1)
+          (reference "U6_1") (unit 1)
         )
       )
     )
