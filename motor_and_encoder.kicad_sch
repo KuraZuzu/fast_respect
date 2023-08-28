@@ -481,9 +481,17 @@
     (uuid fee92adb-2beb-4d7b-9782-5282fb7f159e)
   )
 
+  (text "Encoder:IEH2-4096" (at 73.66 60.96 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a66bcf67-dc94-44a8-9666-cd27d2cde6cc)
+  )
   (text "Mode:1(PHASE/ENABLE)" (at 195.58 91.44 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b31d8d83-0b14-4360-9b57-06b0f8ce38f4)
+  )
+  (text "Encoder:IEH2-4096" (at 73.66 105.41 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f68ae29b-f5c5-4843-97e7-5278353b0127)
   )
 
   (global_label "MOTOR1_OUT_2" (shape output) (at 158.75 95.25 180) (fields_autoplaced)
