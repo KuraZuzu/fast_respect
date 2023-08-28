@@ -2654,7 +2654,7 @@
     (property "Reference" "C1_10" (at 113.03 139.7 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "C" (at 113.03 142.24 0)
+    (property "Value" "4.7uF" (at 113.03 142.24 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 110.1852 144.78 0)
