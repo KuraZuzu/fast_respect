@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Generic_Self-Made_Packages")(type "KiCad")(uri "${KIPRJMOD}/self-made_parts_lib/generic_self-made_packages")(options "")(descr ""))
+)

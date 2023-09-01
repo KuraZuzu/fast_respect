@@ -1519,6 +1519,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 525d663b-8739-4472-84cd-0369fe0d538b)
   )
+  (text "MZ1608-102Y" (at 154.94 34.29 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f4f577ce-2ac5-4cc3-a9a7-508bfb09c6ec)
+  )
 
   (global_label "DIST_LED_3" (shape input) (at 203.2 38.1 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
@@ -2227,7 +2231,7 @@
   )
 
   (symbol (lib_id "Device:FerriteBead") (at 161.29 44.45 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 488813d6-e4dc-4224-b48d-0875de90d3a7)
     (property "Reference" "FB1_1" (at 161.3408 36.83 90)
       (effects (font (size 1.27 1.27)))
@@ -2235,14 +2239,14 @@
     (property "Value" "FerriteBead" (at 161.3408 39.37 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 161.29 42.672 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 161.29 42.672 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 161.29 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 25e236d7-6b67-4839-9a92-0f3e7f609451))
-    (pin "2" (uuid bb3917b4-d777-41a9-ba8b-459e62594225))
+    (pin "1" (uuid 216f45d8-fd86-420c-a124-f6438657cbcf))
+    (pin "2" (uuid 6de7eb16-0b30-4d49-898c-f02b600a4e1c))
     (instances
       (project "fast_respect"
         (path "/588ca8cd-b11b-4b55-96d9-278aac6cd0cf"
@@ -2555,7 +2559,7 @@
     (property "Value" "10k" (at 27.94 48.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 23.622 46.99 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 23.622 46.99 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 25.4 46.99 0)
