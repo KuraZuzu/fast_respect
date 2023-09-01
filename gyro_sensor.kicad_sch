@@ -382,7 +382,7 @@
     (property "Value" "ICM-42688-P" (at 121.92 64.77 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 113.03 63.5 0)
+    (property "Footprint" "Self-Made_Generic_Packages:LGA-14_ExpandPad_3x2.5mm_P0.5mm_LayoutBorder3x4y" (at 113.03 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 113.03 63.5 0)

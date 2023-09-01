@@ -1,4 +1,4 @@
-21927912193678013
+21929605749579660
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54550,13 +54550,6 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
-Generic_Self-Made_Packages
-WSON-12-1EP_ExpandPad_3x2mm_P0.5mm_EP1x2.65
-WSON-12 http://www.ti.com/lit/ds/symlink/lm27762.pdf
-WSON-12
-0
-15
-13
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -83530,6 +83523,20 @@ rotary encoder
 0
 7
 6
+Self-Made_Generic_Packages
+LGA-14_ExpandPad_3x2.5mm_P0.5mm_LayoutBorder3x4y
+LGA, 14 Pin (https://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LGA NoLead
+0
+14
+14
+Self-Made_Generic_Packages
+WSON-12-1EP_ExpandPad_3x2mm_P0.5mm_EP1x2.65
+WSON-12 http://www.ti.com/lit/ds/symlink/lm27762.pdf
+WSON-12
+0
+15
+13
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
