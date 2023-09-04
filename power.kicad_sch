@@ -1811,7 +1811,7 @@
     (property "Value" "SW_SPDT" (at 85.09 105.41 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 90.17 105.41 0)
+    (property "Footprint" "Self-Made_Generic_Packages:SW_Slide_SS12D01G4_AKIZUKI" (at 90.17 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 90.17 105.41 0)

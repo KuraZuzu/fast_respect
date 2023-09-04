@@ -1,4 +1,4 @@
-21931299509254779
+21932993307874865
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83537,6 +83537,13 @@ LGA NoLead
 0
 14
 14
+Self-Made_Generic_Packages
+SW_Slide_SS12D01G4_AKIZUKI
+
+
+0
+3
+3
 Self-Made_Generic_Packages
 WSON-12-1EP_ExpandPad_3x2mm_P0.5mm_EP1x2.65
 WSON-12 http://www.ti.com/lit/ds/symlink/lm27762.pdf
