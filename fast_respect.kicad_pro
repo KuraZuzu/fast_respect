@@ -474,7 +474,7 @@
     ],
     [
       "095bf668-b079-4330-a0e4-b1270338e20d",
-      "Power"
+      "POWER"
     ],
     [
       "6348a27a-bd56-43d1-8263-1514ad8e201c",
@@ -491,6 +491,10 @@
     [
       "c0d943d8-7bed-4ffd-b406-edd8b25f7433",
       "GYRO SENSOR"
+    ],
+    [
+      "2a4a29e2-e47e-4930-bef6-7bed9da88c0f",
+      "SUCTION FAN"
     ]
   ],
   "text_variables": {}
