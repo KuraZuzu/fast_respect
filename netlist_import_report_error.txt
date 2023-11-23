@@ -1,0 +1,1001 @@
+情報: ネットリスト ファイル '/home/kurasawa/Projects/kicad_projects/fast_respect/fast_respect.net'を読み込んでいます。
+
+情報: シンボルとフットプリントの関連付けにリファレンス指定子を使用
+
+情報: シンボル 'R3_5:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'D3_3:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C7_1:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R3_7:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C1_9:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R4_2:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R2_4:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'Q3_1:Package_TO_SOT_SMD:SOT-23' を処理中です。
+情報: シンボル 'D3_5:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R3_6:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C6_3:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C1_10:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R4_4:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'D2_1:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R4_3:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C2_1:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C1_8:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C6_2:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'D2_2:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R3_4:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C2_2:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'Q2_1:Package_TO_SOT_SMD:SOT-23' を処理中です。
+情報: シンボル 'C5_1:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R2_2:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R4_1:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'D3_6:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R3_8:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C1_3:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R2_5:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R4_16:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C4_1:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C5_2:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C2_4:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'BZ3_1:SMT-0440-T-HT-R:XDCR_SMT-0440-T-HT-R' を処理中です。
+情報: シンボル 'R4_5:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'Q4_4:Package_TO_SOT_SMD:SOT-23' を処理中です。
+情報: シンボル 'D4_4:LED_THT:LED_D5.0mm' を処理中です。
+情報: シンボル 'R4_12:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C1_1:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R4_17:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'FB1_1:Resistor_SMD:R_0603_1608Metric' を処理中です。
+情報: シンボル 'C1_4:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R4_15:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R3_11:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'D4_2:LED_THT:LED_D5.0mm' を処理中です。
+情報: シンボル 'Q4_8:Package_TO_SOT_THT:TO-18-2' を処理中です。
+情報: シンボル 'C1_5:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R7_1:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C2_3:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R3_3:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R3_10:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R4_14:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'D4_1:LED_THT:LED_D5.0mm' を処理中です。
+情報: シンボル 'C1_6:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'Q4_7:Package_TO_SOT_THT:TO-18-2' を処理中です。
+情報: シンボル 'R3_9:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C5_3:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C1_7:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R1_1:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'Q4_6:Package_TO_SOT_THT:TO-18-2' を処理中です。
+情報: シンボル 'D4_3:LED_THT:LED_D5.0mm' を処理中です。
+情報: シンボル 'U2_1:Package_TO_SOT_SMD:SOT-223' を処理中です。
+情報: シンボル 'U5_1:Self-Made_Generic_Packages:WSON-12-1EP_ExpandPad_3x2mm_P0.5mm_EP1x2.65' を処理中です。
+情報: シンボル 'D3_4:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'SW1_2:Button_Switch_THT:SW_PUSH_6mm' を処理中です。
+情報: シンボル 'SW1_1:Button_Switch_THT:SW_PUSH_6mm' を処理中です。
+情報: シンボル 'Q4_2:Package_TO_SOT_SMD:SOT-23' を処理中です。
+情報: シンボル 'R4_10:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R7_2:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R4_7:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'J1_1:Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical' を処理中です。
+情報: シンボル 'C1_2:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'BT2_1:Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical' を処理中です。
+情報: シンボル 'Q7_1:Package_TO_SOT_SMD:SOT-23' を処理中です。
+情報: シンボル 'R2_3:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'C6_1:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'Q4_1:Package_TO_SOT_SMD:SOT-23' を処理中です。
+情報: シンボル 'U6_1:Self-Made_Generic_Packages:LGA-14_ExpandPad_3x2.5mm_P0.5mm_LayoutBorder3x4y' を処理中です。
+情報: シンボル 'SW3_2:Button_Switch_THT:SW_PUSH_6mm' を処理中です。
+情報: シンボル 'R4_9:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'R4_8:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'J5_2:Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical' を処理中です。
+情報: シンボル 'R4_13:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'SW3_1:Button_Switch_THT:SW_PUSH_6mm' を処理中です。
+情報: シンボル 'U2_2:Package_TO_SOT_SMD:SOT-223' を処理中です。
+情報: シンボル 'SW2_1:Self-Made_Generic_Packages:SW_Slide_SS12D01G4_AKIZUKI' を処理中です。
+情報: シンボル 'C4_2:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'Q4_5:Package_TO_SOT_THT:TO-18-2' を処理中です。
+情報: シンボル 'R2_1:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'Q4_3:Package_TO_SOT_SMD:SOT-23' を処理中です。
+情報: シンボル 'SW3_3:Button_Switch_THT:SW_PUSH_6mm' を処理中です。
+情報: シンボル 'R4_11:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'J5_1:Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical' を処理中です。
+情報: シンボル 'U1_1:Package_QFP:LQFP-64_10x10mm_P0.5mm' を処理中です。
+情報: シンボル 'R4_6:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' を処理中です。
+情報: シンボル 'J7_1:Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical' を処理中です。
+情報: シンボル 'D7_1:Diode_SMD:D_SOD-123F' を処理中です。
+ネット Net-(J1_1-Pin_1) を追加します。
+J1_1 ピン 5 を NRST に接続しました。
+J1_1 ピン 3 を GND に接続しました。
+D3_3 のプロパティを更新しました。
+ネット unconnected-(U1_1-PC13-Pad2) を追加します。
+J1_1 ピン 6 を SWO に接続しました。
+D3_3 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/423a2ce2-95f1-4ac4-86c0-cf49b0db4489 へ変更しました。
+D3_3 の値を LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder から LED_B1 に変更しました。
+REF** リファレンス指定子を D3_3 へ変更しました。
+J1_1 ピン 2 を SWCLK に接続しました。
+J1_1 ピン 7 を TX に接続しました。
+D4_4 ピン 1 を Net-(D4_4-K) に接続しました。
+D3_3 ピン 1 を GND に接続しました。
+D3_4 (フットプリント 'LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder')を追加します。
+J1_1 ピン 4 を SWDIO に接続しました。
+REF** リファレンス指定子を D3_4 へ変更しました。
+D3_6 (フットプリント 'LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder')を追加します。
+D3_6 の値を LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder から LED_B4 に変更しました。
+C2_1 ピン 2 を GND に接続しました。
+D3_6 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/b695822c-62b2-4a90-89d6-0bcdcca4f077 へ変更しました。
+D3_6 のプロパティを更新しました。
+BT2_1 のプロパティを更新しました。
+BT2_1 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/645829ea-f910-4a23-b46a-68a69a784cf1 へ変更しました。
+D3_6 ピン 1 を GND に接続しました。
+BT2_1 の値を JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical から Battery に変更しました。
+REF** リファレンス指定子を D3_6 へ変更しました。
+D4_4 ピン 2 を Net-(D4_1-A) に接続しました。
+REF** リファレンス指定子を BT2_1 へ変更しました。
+D7_1 シンボルの関連付けを  から /2a4a29e2-e47e-4930-bef6-7bed9da88c0f/9fe33fb8-43e8-4582-8a92-b1edf5ea8af8 へ変更しました。
+U1_1 ピン 28 を GYRO_CS に接続しました。
+D2_2 のプロパティを更新しました。
+D3_3 (フットプリント 'LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder')を追加します。
+BT2_1 ピン 2 を GND に接続しました。
+J1_1 ピン 8 を RX に接続しました。
+D2_2 ピン 1 を GND に接続しました。
+D3_5 ピン 2 を Net-(D3_5-A) に接続しました。
+D7_1 ピン 1 を +8V に接続しました。
+D7_1 のプロパティを更新しました。
+D2_2 (フットプリント 'LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を D2_2 へ変更しました。
+D2_2 の値を LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder から LED_Y に変更しました。
+J7_1 (フットプリント 'Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical')を追加します。
+J1_1 シンボルの関連付けを  から /1dc44603-3d69-4f69-bf03-aaa939dfe903 へ変更しました。
+D2_2 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/69d47836-c4be-4b12-b63d-12568e9134b5 へ変更しました。
+BT2_1 ピン 1 を Net-(BT2_1-+) に接続しました。
+D7_1 ピン 2 を Net-(D7_1-A) に接続しました。
+D7_1 の値を D_SOD-123F から CRS15 に変更しました。
+REF** リファレンス指定子を D7_1 へ変更しました。
+D2_2 ピン 2 を Net-(D2_2-A) に接続しました。
+D7_1 (フットプリント 'Diode_SMD:D_SOD-123F')を追加します。
+D2_1 (フットプリント 'LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を D2_1 へ変更しました。
+D2_1 の値を LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder から LED_R に変更しました。
+D2_1 ピン 2 を Net-(D2_1-A) に接続しました。
+D2_1 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/5a6588d3-b1a6-4569-bc0c-cabde329b927 へ変更しました。
+D2_1 のプロパティを更新しました。
+D3_5 (フットプリント 'LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder')を追加します。
+ネット unconnected-(U1_1-PC15-Pad4) を追加します。
+REF** リファレンス指定子を D3_5 へ変更しました。
+D3_4 の値を LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder から LED_B2 に変更しました。
+J1_1 ピン 1 を Net-(J1_1-Pin_1) に接続しました。
+D2_1 ピン 1 を GND に接続しました。
+D3_4 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/7af1024f-9535-4362-bb12-2d5fc5dfd7e5 へ変更しました。
+D3_4 のプロパティを更新しました。
+D3_4 ピン 1 を GND に接続しました。
+J1_1 のプロパティを更新しました。
+D3_4 ピン 2 を Net-(D3_4-A) に接続しました。
+D3_3 ピン 2 を Net-(D3_3-A) に接続しました。
+J1_1 の値を PinHeader_2x04_P2.54mm_Vertical から Conn_02x04_Odd_Even に変更しました。
+REF** リファレンス指定子を J1_1 へ変更しました。
+U1_1 ピン 3 を unconnected-(U1_1-PC14-Pad3) に接続しました。
+J1_1 (フットプリント 'Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical')を追加します。
+REF** リファレンス指定子を R4_15 へ変更しました。
+D3_5 の値を LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder から LED_B3 に変更しました。
+D3_5 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/27c9dac8-6df9-4cfb-9e50-fdf3816f9839 へ変更しました。
+D3_5 のプロパティを更新しました。
+D3_5 ピン 1 を GND に接続しました。
+U1_1 ピン 34 を unconnected-(U1_1-PB13-Pad34) に接続しました。
+U1_1 ピン 23 を DIST_LED_4 に接続しました。
+U1_1 ピン 24 を UI_LED_1 に接続しました。
+U1_1 ピン 25 を UI_LED_2 に接続しました。
+U1_1 ピン 26 を UI_LED_3 に接続しました。
+U1_1 ピン 27 を UI_LED_4 に接続しました。
+D4_1 ピン 2 を Net-(D4_1-A) に接続しました。
+U1_1 ピン 38 を BUZZER_PWM に接続しました。
+D3_6 ピン 2 を Net-(D3_6-A) に接続しました。
+U1_1 ピン 39 を unconnected-(U1_1-PC8-Pad39) に接続しました。
+U1_1 ピン 30 を Net-(U1_1-VCAP_1) に接続しました。
+U1_1 ピン 31 を GND に接続しました。
+U1_1 ピン 32 を +3.3V に接続しました。
+ネット unconnected-(U1_1-PB12-Pad33) を追加します。
+U1_1 ピン 33 を unconnected-(U1_1-PB12-Pad33) に接続しました。
+ネット unconnected-(U1_1-PB13-Pad34) を追加します。
+U1_1 ピン 22 を DIST_ADC_4 に接続しました。
+U1_1 ピン 35 を GYRO_MISO に接続しました。
+U1_1 ピン 36 を GYRO_MOSI に接続しました。
+ネット unconnected-(U1_1-PC6-Pad37) を追加します。
+U1_1 ピン 37 を unconnected-(U1_1-PC6-Pad37) に接続しました。
+BT2_1 (フットプリント 'Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical')を追加します。
+ネット unconnected-(U1_1-PC8-Pad39) を追加します。
+ネット Net-(U1_1-VCAP_1) を追加します。
+U1_1 ピン 40 を MOTOR1_PHASE に接続しました。
+U1_1 ピン 41 を MOTOR1_PWM に接続しました。
+U1_1 ピン 42 を MOTOR2_PWM に接続しました。
+ネット MOTOR2_PHASE を追加します。
+U1_1 ピン 43 を MOTOR2_PHASE に接続しました。
+ネット unconnected-(U1_1-PA11-Pad44) を追加します。
+U1_1 ピン 44 を unconnected-(U1_1-PA11-Pad44) に接続しました。
+U1_1 ピン 10 を DIST_ADC_2 に接続しました。
+SW3_3 ピン 2 を GND に接続しました。
+U1_1 ピン 2 を unconnected-(U1_1-PC13-Pad2) に接続しました。
+ネット unconnected-(U1_1-PC14-Pad3) を追加します。
+U1_1 ピン 14 を BAT_ADC に接続しました。
+ネット unconnected-(U1_1-PA1-Pad15) を追加します。
+ネット unconnected-(U1_1-PH0-Pad5) を追加します。
+U1_1 ピン 5 を unconnected-(U1_1-PH0-Pad5) に接続しました。
+ネット unconnected-(U1_1-PH1-Pad6) を追加します。
+U1_1 ピン 6 を unconnected-(U1_1-PH1-Pad6) に接続しました。
+ネット NRST を追加します。
+U1_1 ピン 7 を NRST に接続しました。
+U1_1 ピン 8 を DIST_ADC_1 に接続しました。
+U1_1 ピン 9 を DIST_LED_1 に接続しました。
+ネット unconnected-(U1_1-PA12-Pad45) を追加します。
+U1_1 ピン 11 を DIST_LED_2 に接続しました。
+U1_1 ピン 12 を GND に接続しました。
+U1_1 ピン 13 を Net-(U1_1-VDDA) に接続しました。
+U1_1 ピン 45 を unconnected-(U1_1-PA12-Pad45) に接続しました。
+ネット SWDIO を追加します。
+U1_1 ピン 15 を unconnected-(U1_1-PA1-Pad15) に接続しました。
+ネット TX を追加します。
+U1_1 ピン 16 を TX に接続しました。
+ネット RX を追加します。
+U1_1 ピン 17 を RX に接続しました。
+U1_1 ピン 18 を GND に接続しました。
+U1_1 ピン 19 を +3.3V に接続しました。
+U1_1 ピン 20 を DIST_ADC_3 に接続しました。
+U1_1 ピン 21 を DIST_LED_3 に接続しました。
+D4_1 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/09493276-1f63-4c13-a731-1b522ff4a198 へ変更しました。
+ネット unconnected-(U1_1-PB9-Pad62) を追加します。
+U1_1 ピン 62 を unconnected-(U1_1-PB9-Pad62) に接続しました。
+D4_1 ピン 1 を Net-(D4_1-K) に接続しました。
+REF** リファレンス指定子を Q4_3 へ変更しました。
+D4_3 (フットプリント 'LED_THT:LED_D5.0mm')を追加します。
+REF** リファレンス指定子を D4_3 へ変更しました。
+D4_3 の値を LED_D5.0mm から SFH4550 に変更しました。
+D4_3 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/5a41edda-b37b-4145-88e9-76dafd9d1d97 へ変更しました。
+D4_3 のプロパティを更新しました。
+D4_3 ピン 1 を Net-(D4_3-K) に接続しました。
+D4_3 ピン 2 を Net-(D4_1-A) に接続しました。
+D4_1 (フットプリント 'LED_THT:LED_D5.0mm')を追加します。
+REF** リファレンス指定子を D4_1 へ変更しました。
+D4_1 の値を LED_D5.0mm から SFH4550 に変更しました。
+U1_1 ピン 61 を FAN_MOTOR_PWM に接続しました。
+D4_1 のプロパティを更新しました。
+U1_1 ピン 63 を GND に接続しました。
+U1_1 ピン 64 を +3.3V に接続しました。
+D4_2 (フットプリント 'LED_THT:LED_D5.0mm')を追加します。
+REF** リファレンス指定子を D4_2 へ変更しました。
+D4_2 の値を LED_D5.0mm から SFH4550 に変更しました。
+D4_2 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/e61b6b3d-b60d-4b2a-929e-9d304f11477f へ変更しました。
+D4_2 のプロパティを更新しました。
+D4_2 ピン 1 を Net-(D4_2-K) に接続しました。
+D4_2 ピン 2 を Net-(D4_1-A) に接続しました。
+D4_4 (フットプリント 'LED_THT:LED_D5.0mm')を追加します。
+REF** リファレンス指定子を D4_4 へ変更しました。
+D4_4 の値を LED_D5.0mm から SFH4550 に変更しました。
+D4_4 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/79ff94e7-e9d9-4e15-84e9-5bc8edd529d1 へ変更しました。
+U1_1 ピン 53 を unconnected-(U1_1-PC12-Pad53) に接続しました。
+ネット unconnected-(U1_1-PC12-Pad53) を追加します。
+C2_3 ピン 1 を +8V に接続しました。
+ネット unconnected-(U1_1-PD2-Pad54) を追加します。
+U1_1 ピン 46 を SWDIO に接続しました。
+U1_1 ピン 47 を GND に接続しました。
+U1_1 ピン 48 を +3.3V に接続しました。
+ネット SWCLK を追加します。
+U1_1 ピン 49 を SWCLK に接続しました。
+ネット unconnected-(U1_1-PA15-Pad50) を追加します。
+U1_1 ピン 50 を unconnected-(U1_1-PA15-Pad50) に接続しました。
+ネット unconnected-(U1_1-PC10-Pad51) を追加します。
+U1_1 ピン 51 を unconnected-(U1_1-PC10-Pad51) に接続しました。
+ネット unconnected-(U1_1-PC11-Pad52) を追加します。
+U1_1 ピン 52 を unconnected-(U1_1-PC11-Pad52) に接続しました。
+C2_3 のプロパティを更新しました。
+D4_4 のプロパティを更新しました。
+U1_1 ピン 4 を unconnected-(U1_1-PC15-Pad4) に接続しました。
+U1_1 ピン 54 を unconnected-(U1_1-PD2-Pad54) に接続しました。
+ネット SWO を追加します。
+U1_1 ピン 55 を SWO に接続しました。
+ネット ENCODER1_A を追加します。
+U1_1 ピン 56 を ENCODER1_A に接続しました。
+ネット ENCODER1_B を追加します。
+U1_1 ピン 57 を ENCODER1_B に接続しました。
+ネット ENCODER2_A を追加します。
+U1_1 ピン 58 を ENCODER2_A に接続しました。
+ネット ENCODER2_B を追加します。
+U1_1 ピン 59 を ENCODER2_B に接続しました。
+C2_1 ピン 1 を +8V に接続しました。
+C1_9 ピン 1 を GND に接続しました。
+C1_10 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C1_10 へ変更しました。
+C1_10 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 4.7uF に変更しました。
+C1_10 シンボルの関連付けを  から /c50d3996-f7a3-4d4b-8916-6de752bdd891 へ変更しました。
+C1_10 のプロパティを更新しました。
+C1_10 ピン 1 を Net-(U1_1-VCAP_1) に接続しました。
+C1_10 ピン 2 を GND に接続しました。
+C2_1 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C2_1 へ変更しました。
+C2_1 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 10uF に変更しました。
+C2_1 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/1093966e-88a6-4c96-b3e9-ed1f8e9acef6 へ変更しました。
+C2_1 のプロパティを更新しました。
+U1_1 ピン 60 を BOOT0 に接続しました。
+C1_9 ピン 2 を Net-(U1_1-VDDA) に接続しました。
+C2_2 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C2_2 へ変更しました。
+C2_2 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 22uF に変更しました。
+C2_2 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/7e0ed29f-8a7a-4d64-bbc8-6555f5ea5bb2 へ変更しました。
+C2_2 のプロパティを更新しました。
+C2_2 ピン 1 を +5V に接続しました。
+C2_2 ピン 2 を GND に接続しました。
+C2_3 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C2_3 へ変更しました。
+C2_3 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 10uF に変更しました。
+C2_3 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/f74d6052-ab52-456d-8218-204020ade725 へ変更しました。
+C1_7 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 0.01uF に変更しました。
+C1_7 シンボルの関連付けを  から /4c536a50-6f63-48e4-8635-05f364a266a3 へ変更しました。
+C2_3 ピン 2 を GND に接続しました。
+C1_5 ピン 1 を GND に接続しました。
+C1_5 ピン 2 を +3.3V に接続しました。
+C1_6 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C1_6 へ変更しました。
+C1_6 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 0.1uF に変更しました。
+C1_6 シンボルの関連付けを  から /7f5f8176-466b-4c0b-a8f4-30a88920d8af へ変更しました。
+C1_6 のプロパティを更新しました。
+C1_6 ピン 1 を GND に接続しました。
+C1_6 ピン 2 を +3.3V に接続しました。
+C1_7 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C1_7 へ変更しました。
+SW3_3 のプロパティを更新しました。
+C5_1 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 10uF に変更しました。
+C1_7 のプロパティを更新しました。
+C2_4 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+C1_7 ピン 2 を Net-(U1_1-VDDA) に接続しました。
+C1_8 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C1_8 へ変更しました。
+C1_8 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 0.1uF に変更しました。
+C1_8 シンボルの関連付けを  から /04cd908e-3cca-4929-a56c-0481ef528eb9 へ変更しました。
+C1_8 のプロパティを更新しました。
+C1_8 ピン 1 を GND に接続しました。
+C1_8 ピン 2 を Net-(U1_1-VDDA) に接続しました。
+C1_9 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C1_9 へ変更しました。
+SW3_1 ピン 2 を GND に接続しました。
+SW3_2 (フットプリント 'Button_Switch_THT:SW_PUSH_6mm')を追加します。
+C1_9 のプロパティを更新しました。
+SW3_2 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/baa6e48f-b6ac-4b9b-99f6-39da708fa12b へ変更しました。
+SW1_2 ピン 2 を GND に接続しました。
+SW1_2 ピン 2 を GND に接続しました。
+SW3_1 (フットプリント 'Button_Switch_THT:SW_PUSH_6mm')を追加します。
+REF** リファレンス指定子を SW3_1 へ変更しました。
+SW3_1 の値を SW_PUSH_6mm から SW_Push に変更しました。
+SW3_1 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/c4ed3589-20ed-4f43-a9b5-cc76756589e6 へ変更しました。
+SW3_1 のプロパティを更新しました。
+SW3_1 ピン 1 を UI_SW_1 に接続しました。
+SW3_1 ピン 1 を UI_SW_1 に接続しました。
+SW3_1 ピン 2 を GND に接続しました。
+C1_9 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 1uF に変更しました。
+C1_9 シンボルの関連付けを  から /5935fb0d-5226-47af-983b-4aa5cffec147 へ変更しました。
+REF** リファレンス指定子を SW3_2 へ変更しました。
+SW3_2 の値を SW_PUSH_6mm から SW_Push に変更しました。
+SW1_2 ピン 1 を NRST に接続しました。
+SW3_2 のプロパティを更新しました。
+SW3_2 ピン 1 を UI_SW_2 に接続しました。
+SW3_2 ピン 1 を UI_SW_2 に接続しました。
+SW3_2 ピン 2 を GND に接続しました。
+SW3_2 ピン 2 を GND に接続しました。
+SW3_3 (フットプリント 'Button_Switch_THT:SW_PUSH_6mm')を追加します。
+REF** リファレンス指定子を SW3_3 へ変更しました。
+SW3_3 の値を SW_PUSH_6mm から SW_Push に変更しました。
+SW3_3 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/0229ef26-1981-4404-92fa-8f7007a3e385 へ変更しました。
+C4_2 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/62ff8de3-26bd-4fe3-8d66-968d51514199 へ変更しました。
+SW1_2 (フットプリント 'Button_Switch_THT:SW_PUSH_6mm')を追加します。
+SW3_3 ピン 1 を UI_SW_3 に接続しました。
+SW3_3 ピン 2 を GND に接続しました。
+REF** リファレンス指定子を SW1_1 へ変更しました。
+REF** リファレンス指定子を C2_4 へ変更しました。
+C2_4 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 22uF に変更しました。
+C2_4 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/0c984b49-5bec-46cf-8ea2-85e1e7b23f88 へ変更しました。
+C2_4 のプロパティを更新しました。
+C2_4 ピン 1 を +3.3V に接続しました。
+C2_4 ピン 2 を GND に接続しました。
+C4_2 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C4_2 へ変更しました。
+C4_2 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 1uF に変更しました。
+C5_1 シンボルの関連付けを  から /3d29964c-a327-44ac-972f-0ff4ec56671e/8c6954d3-c36d-4682-8556-35a3b03a902f へ変更しました。
+C4_2 ピン 1 を Net-(D4_1-A) に接続しました。
+REF** リファレンス指定子を SW1_2 へ変更しました。
+SW1_1 ピン 2 を BOOT0 に接続しました。
+SW1_1 ピン 2 を BOOT0 に接続しました。
+SW1_1 ピン 1 を +3.3V に接続しました。
+SW1_1 ピン 1 を +3.3V に接続しました。
+SW1_1 のプロパティを更新しました。
+SW1_1 シンボルの関連付けを  から /6dc58efe-1edb-48b1-abe5-4a779577e0b7 へ変更しました。
+SW1_1 の値を SW_PUSH_6mm から SW_Push に変更しました。
+C1_5 のプロパティを更新しました。
+SW1_1 (フットプリント 'Button_Switch_THT:SW_PUSH_6mm')を追加します。
+C4_2 ピン 2 を GND に接続しました。
+C4_2 のプロパティを更新しました。
+C6_1 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 0.01uF に変更しました。
+C6_1 シンボルの関連付けを  から /c0d943d8-7bed-4ffd-b406-edd8b25f7433/24264891-e920-4365-807d-c87b6b77077c へ変更しました。
+SW1_2 の値を SW_PUSH_6mm から SW_Push に変更しました。
+SW1_2 シンボルの関連付けを  から /38409807-76fc-48b8-ab84-7c4019484147 へ変更しました。
+SW1_2 のプロパティを更新しました。
+SW1_2 ピン 1 を NRST に接続しました。
+C5_2 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 0.1uF に変更しました。
+C1_2 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 4.7uF に変更しました。
+C1_2 シンボルの関連付けを  から /2839ce74-5d2f-4392-a4ba-5fd6d7c81538 へ変更しました。
+C1_2 のプロパティを更新しました。
+C1_2 ピン 1 を GND に接続しました。
+C1_2 ピン 2 を +3.3V に接続しました。
+C6_1 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C6_1 へ変更しました。
+REF** リファレンス指定子を C5_3 へ変更しました。
+SW3_3 ピン 1 を UI_SW_3 に接続しました。
+C6_1 のプロパティを更新しました。
+C6_1 ピン 1 を +3.3V に接続しました。
+C6_1 ピン 2 を GND に接続しました。
+C5_2 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C5_2 へ変更しました。
+REF** リファレンス指定子を C1_2 へ変更しました。
+C5_2 シンボルの関連付けを  から /3d29964c-a327-44ac-972f-0ff4ec56671e/1fa616c4-d390-4118-839c-847e9f7f0c98 へ変更しました。
+C5_2 のプロパティを更新しました。
+C5_2 ピン 1 を +8V に接続しました。
+C5_2 ピン 2 を GND に接続しました。
+C5_1 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C5_1 へ変更しました。
+REF** リファレンス指定子を J5_1 へ変更しました。
+J5_1 の値を IDC-Header_2x03_P2.54mm_Vertical から Conn_02x03_Odd_Even に変更しました。
+C5_1 のプロパティを更新しました。
+C5_1 ピン 1 を GND に接続しました。
+C5_1 ピン 2 を +8V に接続しました。
+C6_2 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C6_2 へ変更しました。
+J5_1 ピン 5 を ENCODER1_B に接続しました。
+J7_1 の値を JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical から Conn_01x02 に変更しました。
+J7_1 シンボルの関連付けを  から /2a4a29e2-e47e-4930-bef6-7bed9da88c0f/55dde902-35a9-438b-837b-50f80859fd31 へ変更しました。
+J7_1 のプロパティを更新しました。
+J7_1 ピン 1 を +8V に接続しました。
+J7_1 ピン 2 を Net-(D7_1-A) に接続しました。
+J5_1 (フットプリント 'Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical')を追加します。
+C1_4 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 0.1uF に変更しました。
+C1_4 シンボルの関連付けを  から /16574aad-e01b-4ef6-8f02-94174dea1fa5 へ変更しました。
+J5_1 シンボルの関連付けを  から /3d29964c-a327-44ac-972f-0ff4ec56671e/07ae7bf6-6151-4fc7-9453-10fa8723e438 へ変更しました。
+J5_1 のプロパティを更新しました。
+J5_1 ピン 1 を MOTOR1_OUT_1 に接続しました。
+J5_1 ピン 2 を MOTOR1_OUT_2 に接続しました。
+J5_1 ピン 3 を GND に接続しました。
+J5_1 ピン 4 を +5V に接続しました。
+C6_2 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 0.1uF に変更しました。
+J5_1 ピン 6 を ENCODER1_A に接続しました。
+J5_2 (フットプリント 'Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical')を追加します。
+REF** リファレンス指定子を J5_2 へ変更しました。
+J5_2 の値を IDC-Header_2x03_P2.54mm_Vertical から Conn_02x03_Odd_Even に変更しました。
+J5_2 シンボルの関連付けを  から /3d29964c-a327-44ac-972f-0ff4ec56671e/338f693a-86e2-4eb6-ab37-7cbe5e180be2 へ変更しました。
+C1_1 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 0.1uF に変更しました。
+C1_1 シンボルの関連付けを  から /89352ae4-6a03-43e5-9fa2-286732ceda21 へ変更しました。
+J5_2 ピン 2 を MOTOR2_OUT_2 に接続しました。
+J5_2 ピン 3 を GND に接続しました。
+J5_2 ピン 4 を +5V に接続しました。
+J5_2 ピン 5 を ENCODER2_B に接続しました。
+J5_2 ピン 6 を ENCODER2_A に接続しました。
+C1_2 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+C1_3 のプロパティを更新しました。
+C4_1 のプロパティを更新しました。
+C4_1 ピン 1 を +3.3V に接続しました。
+C4_1 ピン 2 を GND に接続しました。
+C1_1 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C1_1 へ変更しました。
+J5_2 のプロパティを更新しました。
+J5_2 ピン 1 を MOTOR2_OUT_1 に接続しました。
+C1_1 のプロパティを更新しました。
+C1_1 ピン 1 を NRST に接続しました。
+C1_1 ピン 2 を GND に接続しました。
+C1_3 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C1_3 へ変更しました。
+C1_3 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 0.1uF に変更しました。
+C1_3 シンボルの関連付けを  から /68dfdea1-c6e3-4274-8604-7fb6bae01c98 へ変更しました。
+C4_1 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/d2931ead-5e99-4157-893c-6da85c0682b0 へ変更しました。
+C1_3 ピン 1 を GND に接続しました。
+C1_3 ピン 2 を +3.3V に接続しました。
+C1_4 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C1_4 へ変更しました。
+REF** リファレンス指定子を C6_3 へ変更しました。
+C6_3 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 2.2uF に変更しました。
+C1_4 のプロパティを更新しました。
+C1_4 ピン 1 を GND に接続しました。
+C1_4 ピン 2 を +3.3V に接続しました。
+C1_5 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C1_5 へ変更しました。
+C1_5 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 0.1uF に変更しました。
+C1_5 シンボルの関連付けを  から /9d3a5412-5f71-42c3-9150-61f8afe7ba1c へ変更しました。
+C7_1 シンボルの関連付けを  から /2a4a29e2-e47e-4930-bef6-7bed9da88c0f/08d25639-a5b8-4ace-97ff-d6bd764e0239 へ変更しました。
+C6_2 シンボルの関連付けを  から /c0d943d8-7bed-4ffd-b406-edd8b25f7433/df734140-3dbf-44e0-aa66-c156450aaf08 へ変更しました。
+C6_2 のプロパティを更新しました。
+C6_2 ピン 2 を GND に接続しました。
+C6_3 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+R4_15 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 1k に変更しました。
+C1_7 ピン 1 を GND に接続しました。
+C6_3 シンボルの関連付けを  から /c0d943d8-7bed-4ffd-b406-edd8b25f7433/907bf46a-d624-4ebc-95f8-b059bdfcbb9a へ変更しました。
+C6_3 のプロパティを更新しました。
+C6_3 ピン 1 を +3.3V に接続しました。
+C6_3 ピン 2 を GND に接続しました。
+C7_1 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C7_1 へ変更しました。
+C7_1 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 10uF に変更しました。
+REF** リファレンス指定子を J7_1 へ変更しました。
+C7_1 のプロパティを更新しました。
+C7_1 ピン 1 を +8V に接続しました。
+C7_1 ピン 2 を GND に接続しました。
+C5_3 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+R4_17 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/6d1eea96-f8bf-4d4b-9af7-3026cdbe2589 へ変更しました。
+R4_17 のプロパティを更新しました。
+C5_3 シンボルの関連付けを  から /3d29964c-a327-44ac-972f-0ff4ec56671e/280ec6bf-46f8-4618-a806-b152fd3d7833 へ変更しました。
+C5_3 のプロパティを更新しました。
+C5_3 ピン 1 を GND に接続しました。
+C5_3 ピン 2 を +3.3V に接続しました。
+C4_1 (フットプリント 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を C4_1 へ変更しました。
+C4_1 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 1uF に変更しました。
+ネット DIST_ADC_3 を追加します。
+R3_11 ピン 2 を UI_SW_3 に接続しました。
+R4_17 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R4_17 へ変更しました。
+R4_17 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 1k に変更しました。
+U1_1 ピン 29 を GYRO_SCLK に接続しました。
+C5_3 の値を C_0603_1608Metric_Pad1.08x0.95mm_HandSolder から 0.1uF に変更しました。
+ネット DIST_ADC_4 を追加します。
+R4_17 ピン 1 を DIST_ADC_4 に接続しました。
+R4_17 ピン 2 を GND に接続しました。
+R4_16 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R4_16 へ変更しました。
+R4_16 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 1k に変更しました。
+R4_16 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/c8ea310e-06a9-4da6-b5ba-edd2659f55a5 へ変更しました。
+R4_16 のプロパティを更新しました。
+ネット UI_SW_3 を追加します。
+R4_16 ピン 1 を DIST_ADC_3 に接続しました。
+R4_16 ピン 2 を GND に接続しました。
+R4_15 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+R3_8 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 10k に変更しました。
+ネット Net-(Q4_2-G) を追加します。
+R3_8 のプロパティを更新しました。
+C6_2 ピン 1 を +3.3V に接続しました。
+R4_15 のプロパティを更新しました。
+ネット DIST_ADC_2 を追加します。
+R4_15 ピン 1 を DIST_ADC_2 に接続しました。
+R4_15 ピン 2 を GND に接続しました。
+R4_14 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R4_14 へ変更しました。
+R4_14 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 1k に変更しました。
+R4_14 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/21388fae-085a-4172-94bd-e8dd4dd625ef へ変更しました。
+R3_10 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R3_8 へ変更しました。
+R4_4 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+R3_8 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/a2bf5a20-ca17-4af9-acf3-cbc8ff60ecf5 へ変更しました。
+R4_5 ピン 2 を Net-(Q4_2-G) に接続しました。
+R3_8 ピン 1 を Net-(Q3_1-G) に接続しました。
+R3_8 ピン 2 を GND に接続しました。
+R3_9 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R3_9 へ変更しました。
+R3_9 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 1k に変更しました。
+R3_9 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/36369845-9381-42e7-bb48-4838a2a0f7b6 へ変更しました。
+R3_9 のプロパティを更新しました。
+R3_9 ピン 1 を +3.3V に接続しました。
+ネット UI_SW_1 を追加します。
+R3_9 ピン 2 を UI_SW_1 に接続しました。
+R4_14 のプロパティを更新しました。
+REF** リファレンス指定子を R4_4 へ変更しました。
+BZ3_1 の値を XDCR_SMT-0440-T-HT-R から SMT-0440-T-HT-R に変更しました。
+R4_4 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/f6e8660c-36c1-4ae4-aa6a-a88b4d8f5293 へ変更しました。
+R3_10 のプロパティを更新しました。
+R3_10 ピン 1 を +3.3V に接続しました。
+ネット UI_SW_2 を追加します。
+R3_10 ピン 2 を UI_SW_2 に接続しました。
+R3_11 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R3_11 へ変更しました。
+R3_11 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 1k に変更しました。
+R3_11 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/6340c4ef-78c0-4ee8-a7ff-fd065217d07c へ変更しました。
+R3_11 のプロパティを更新しました。
+R3_11 ピン 1 を +3.3V に接続しました。
+R4_5 ピン 1 を DIST_LED_2 に接続しました。
+REF** リファレンス指定子を R3_10 へ変更しました。
+R4_4 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 1 に変更しました。
+R3_10 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/b2b70661-0220-4177-8d64-13f379639a0e へ変更しました。
+R4_4 のプロパティを更新しました。
+ネット Net-(D4_1-K) を追加します。
+R4_4 ピン 1 を Net-(D4_1-K) に接続しました。
+ネット Net-(Q4_1-D) を追加します。
+R4_4 ピン 2 を Net-(Q4_1-D) に接続しました。
+R4_5 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R4_5 へ変更しました。
+R4_5 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 10 に変更しました。
+R4_5 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/49f0cd63-241d-48a8-9e9f-405ec958841d へ変更しました。
+R4_5 のプロパティを更新しました。
+ネット DIST_LED_2 を追加します。
+U1_1 ピン 1 を +3.3V に接続しました。
+U6_1 のプロパティを更新しました。
+ネット DIST_ADC_1 を追加します。
+R4_6 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R4_6 へ変更しました。
+R4_6 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 10k に変更しました。
+R4_6 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/7552d049-5ff1-479b-9759-be54146281e0 へ変更しました。
+R4_6 のプロパティを更新しました。
+R4_6 ピン 1 を Net-(Q4_2-G) に接続しました。
+R4_6 ピン 2 を GND に接続しました。
+R4_7 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R4_7 へ変更しました。
+R4_7 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 1 に変更しました。
+R4_7 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/8176bfbc-a291-497d-831f-6c2128c52e4e へ変更しました。
+U6_1 シンボルの関連付けを  から /c0d943d8-7bed-4ffd-b406-edd8b25f7433/361eef33-d984-447a-9d3b-676fe3102bcf へ変更しました。
+R4_2 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 10 に変更しました。
+ネット GYRO_MISO を追加します。
+R4_14 ピン 1 を DIST_ADC_1 に接続しました。
+R4_14 ピン 2 を GND に接続しました。
+R3_3 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R3_3 へ変更しました。
+R3_3 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 100 に変更しました。
+R3_3 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/5ee3848a-b42c-455e-ab97-04527629cb33 へ変更しました。
+R3_3 のプロパティを更新しました。
+ネット UI_LED_1 を追加します。
+R3_3 ピン 1 を UI_LED_1 に接続しました。
+ネット Net-(D3_3-A) を追加します。
+R3_3 ピン 2 を Net-(D3_3-A) に接続しました。
+R4_3 のプロパティを更新しました。
+R3_10 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 1k に変更しました。
+R4_3 ピン 2 を GND に接続しました。
+R3_8 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+R4_2 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/eaef1a85-0cce-415b-abdf-87cd309aa7e9 へ変更しました。
+R4_2 のプロパティを更新しました。
+ネット DIST_LED_1 を追加します。
+R4_2 ピン 1 を DIST_LED_1 に接続しました。
+ネット Net-(Q4_1-G) を追加します。
+R4_2 ピン 2 を Net-(Q4_1-G) に接続しました。
+R4_3 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R4_3 へ変更しました。
+R4_3 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 10k に変更しました。
+R4_3 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/ac2a6b00-5fc4-4242-aa7e-1eb0aba577a6 へ変更しました。
+REF** リファレンス指定子を BZ3_1 へ変更しました。
+R4_3 ピン 1 を Net-(Q4_1-G) に接続しました。
+REF** リファレンス指定子を R4_2 へ変更しました。
+ネット unconnected-(U6_1-RESV-Pad2) を追加します。
+SW2_1 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/ecc27d84-8897-480d-a942-26a6835ec1b7 へ変更しました。
+SW2_1 のプロパティを更新しました。
+SW2_1 ピン 1 を GND に接続しました。
+ネット Net-(Q2_1-G) を追加します。
+SW2_1 ピン 2 を Net-(Q2_1-G) に接続しました。
+ネット unconnected-(SW2_1-C-Pad3) を追加します。
+SW2_1 ピン 3 を unconnected-(SW2_1-C-Pad3) に接続しました。
+U6_1 (フットプリント 'Self-Made_Generic_Packages:LGA-14_ExpandPad_3x2.5mm_P0.5mm_LayoutBorder3x4y')を追加します。
+REF** リファレンス指定子を U6_1 へ変更しました。
+U6_1 の値を LGA-14_ExpandPad_3x2.5mm_P0.5mm_LayoutBorder3x4y から ICM-42688-P に変更しました。
+U6_1 ピン 9 を unconnected-(U6_1-INT2/FSYNC/CLKIN-Pad9) に接続しました。
+ネット unconnected-(U6_1-RESV-Pad10) を追加します。
+Q4_5 ピン 1 を +3.3V に接続しました。
+SW2_1 の値を SW_Slide_SS12D01G4_AKIZUKI から SW_SPDT に変更しました。
+U6_1 ピン 2 を unconnected-(U6_1-RESV-Pad2) に接続しました。
+ネット unconnected-(U6_1-RESV-Pad3) を追加します。
+U6_1 ピン 3 を unconnected-(U6_1-RESV-Pad3) に接続しました。
+ネット unconnected-(U6_1-INT1/INT-Pad4) を追加します。
+U6_1 ピン 4 を unconnected-(U6_1-INT1/INT-Pad4) に接続しました。
+U6_1 ピン 5 を +3.3V に接続しました。
+U6_1 ピン 6 を GND に接続しました。
+U6_1 ピン 7 を GND に接続しました。
+U6_1 ピン 8 を +3.3V に接続しました。
+ネット unconnected-(U6_1-INT2/FSYNC/CLKIN-Pad9) を追加します。
+ネット Net-(D3_5-A) を追加します。
+U5_1 ピン 3 を MOTOR1_OUT_2 に接続しました。
+U6_1 ピン 10 を unconnected-(U6_1-RESV-Pad10) に接続しました。
+U6_1 ピン 11 を GND に接続しました。
+U5_1 ピン 5 を MOTOR2_OUT_2 に接続しました。
+U5_1 (フットプリント 'Self-Made_Generic_Packages:WSON-12-1EP_ExpandPad_3x2mm_P0.5mm_EP1x2.65')を追加します。
+REF** リファレンス指定子を U5_1 へ変更しました。
+U5_1 の値を WSON-12-1EP_ExpandPad_3x2mm_P0.5mm_EP1x2.65 から DRV8835DSSR に変更しました。
+U5_1 シンボルの関連付けを  から /3d29964c-a327-44ac-972f-0ff4ec56671e/2ae24407-1e76-4b90-979f-7c5092954845 へ変更しました。
+U5_1 のプロパティを更新しました。
+ネット +8V を追加します。
+U5_1 ピン 1 を +8V に接続しました。
+ネット MOTOR1_OUT_1 を追加します。
+U5_1 ピン 2 を MOTOR1_OUT_1 に接続しました。
+ネット MOTOR2_OUT_1 を追加します。
+U5_1 ピン 11 を +3.3V に接続しました。
+ネット +3.3V を追加します。
+U5_1 ピン 10 を MOTOR1_PHASE に接続しました。
+ネット MOTOR1_PHASE を追加します。
+U5_1 ピン 9 を MOTOR1_PWM に接続しました。
+ネット MOTOR1_PWM を追加します。
+U5_1 ピン 7 を MOTOR2_PWM に接続しました。
+ネット MOTOR2_PWM を追加します。
+U5_1 ピン 6 を GND に接続しました。
+ネット GND を追加します。
+ネット GYRO_CS を追加します。
+ネット MOTOR2_OUT_2 を追加します。
+U5_1 ピン 4 を MOTOR2_OUT_1 に接続しました。
+ネット MOTOR1_OUT_2 を追加します。
+U5_1 ピン 12 を +3.3V に接続しました。
+SW2_1 (フットプリント 'Self-Made_Generic_Packages:SW_Slide_SS12D01G4_AKIZUKI')を追加します。
+SW** リファレンス指定子を SW2_1 へ変更しました。
+R3_6 のプロパティを更新しました。
+U6_1 ピン 1 を GYRO_MISO に接続しました。
+R3_4 ピン 2 を Net-(D3_4-A) に接続しました。
+R3_5 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R3_5 へ変更しました。
+R3_5 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 100 に変更しました。
+R3_5 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/ac7fa36e-014f-40bc-885e-03933fb91fa7 へ変更しました。
+R3_5 のプロパティを更新しました。
+ネット UI_LED_3 を追加します。
+R3_5 ピン 1 を UI_LED_3 に接続しました。
+R3_7 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 10 に変更しました。
+R4_15 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/04752c8d-6f0d-46bf-9be2-e3791d026e6c へ変更しました。
+R3_7 のプロパティを更新しました。
+R3_6 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R3_6 へ変更しました。
+R3_6 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 100 に変更しました。
+R3_6 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/cb1b8bc1-3244-49a6-b97a-fda44f656d76 へ変更しました。
+ネット Net-(D3_4-A) を追加します。
+ネット UI_LED_4 を追加します。
+R3_6 ピン 1 を UI_LED_4 に接続しました。
+ネット Net-(D3_6-A) を追加します。
+R3_6 ピン 2 を Net-(D3_6-A) に接続しました。
+R3_7 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R3_7 へ変更しました。
+Q4_5 のプロパティを更新しました。
+R3_7 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/92ed202e-9f4b-403f-80f3-fd5898930f8a へ変更しました。
+R3_5 ピン 2 を Net-(D3_5-A) に接続しました。
+ネット BUZZER_PWM を追加します。
+R3_7 ピン 1 を BUZZER_PWM に接続しました。
+ネット Net-(Q3_1-G) を追加します。
+R3_7 ピン 2 を Net-(Q3_1-G) に接続しました。
+REF** リファレンス指定子を R4_1 へ変更しました。
+U6_1 ピン 12 を GYRO_CS に接続しました。
+ネット GYRO_SCLK を追加します。
+U6_1 ピン 13 を GYRO_SCLK に接続しました。
+ネット GYRO_MOSI を追加します。
+U6_1 ピン 14 を GYRO_MOSI に接続しました。
+BZ3_1 (フットプリント 'SMT-0440-T-HT-R:XDCR_SMT-0440-T-HT-R')を追加します。
+R3_4 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R3_4 へ変更しました。
+BZ3_1 のプロパティを更新しました。
+BZ3_1 ピン LOAD+ を +3.3V に接続しました。
+ネット Net-(Q3_1-D) を追加します。
+BZ3_1 ピン LOAD- を Net-(Q3_1-D) に接続しました。
+R4_1 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+R4_7 のプロパティを更新しました。
+R4_1 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 20 に変更しました。
+R4_1 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/6453cd6f-39fe-4a19-8c27-417281cc2053 へ変更しました。
+R4_1 のプロパティを更新しました。
+ネット Net-(D4_1-A) を追加します。
+R4_1 ピン 1 を Net-(D4_1-A) に接続しました。
+R4_1 ピン 2 を +3.3V に接続しました。
+Q2_1 ピン 2 を Net-(BT2_1-+) に接続しました。
+BZ3_1 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/8211d2c4-1abb-4840-ac88-fb197401463a へ変更しました。
+R3_4 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 100 に変更しました。
+R3_4 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/e99fb820-7ec4-447f-ac2f-965c3afd293b へ変更しました。
+R3_4 のプロパティを更新しました。
+ネット UI_LED_2 を追加します。
+R3_4 ピン 1 を UI_LED_2 に接続しました。
+Q3_1 ピン 2 を Net-(Q3_1-G) に接続しました。
+Q4_6 ピン 2 を DIST_ADC_2 に接続しました。
+Q4_5 (フットプリント 'Package_TO_SOT_THT:TO-18-2')を追加します。
+REF** リファレンス指定子を Q4_5 へ変更しました。
+Q4_5 の値を TO-18-2 から ST-1KL3A に変更しました。
+Q4_5 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/402adfc9-ccaa-49ac-b1b4-3e10f4f321e8 へ変更しました。
+Q7_1 シンボルの関連付けを  から /2a4a29e2-e47e-4930-bef6-7bed9da88c0f/09283e08-dfb7-4617-bc0e-b4776927462e へ変更しました。
+Q4_1 ピン 1 を Net-(Q4_1-D) に接続しました。
+ネット Net-(D7_1-A) を追加します。
+Q3_1 (フットプリント 'Package_TO_SOT_SMD:SOT-23')を追加します。
+REF** リファレンス指定子を Q3_1 へ変更しました。
+Q3_1 の値を SOT-23 から IRLML6344T に変更しました。
+Q3_1 シンボルの関連付けを  から /6348a27a-bd56-43d1-8263-1514ad8e201c/16bff986-f96e-4860-810b-c25673da5040 へ変更しました。
+Q3_1 のプロパティを更新しました。
+Q3_1 ピン 1 を Net-(Q3_1-D) に接続しました。
+Q4_6 ピン 1 を +3.3V に接続しました。
+Q3_1 ピン 3 を GND に接続しました。
+Q7_1 (フットプリント 'Package_TO_SOT_SMD:SOT-23')を追加します。
+REF** リファレンス指定子を Q7_1 へ変更しました。
+Q7_1 の値を SOT-23 から IRLML6344T に変更しました。
+Q4_1 のプロパティを更新しました。
+Q7_1 のプロパティを更新しました。
+Q4_1 ピン 2 を Net-(Q4_1-G) に接続しました。
+Q7_1 ピン 1 を Net-(D7_1-A) に接続しました。
+Q7_1 ピン 2 を Net-(Q7_1-G) に接続しました。
+Q7_1 ピン 3 を GND に接続しました。
+Q2_1 (フットプリント 'Package_TO_SOT_SMD:SOT-23')を追加します。
+REF** リファレンス指定子を Q2_1 へ変更しました。
+Q2_1 の値を SOT-23 から IRLML6402 に変更しました。
+Q4_8 ピン 1 を +3.3V に接続しました。
+R2_5 ピン 2 を Net-(D2_2-A) に接続しました。
+ネット Net-(D4_2-K) を追加します。
+REF** リファレンス指定子を FB1_1 へ変更しました。
+FB1_1 の値を R_0603_1608Metric から FerriteBead に変更しました。
+Q4_7 の値を TO-18-2 から ST-1KL3A に変更しました。
+R2_2 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/3edcf8a0-f266-4274-b8e8-0f2366aa10bd へ変更しました。
+Q4_7 のプロパティを更新しました。
+FB1_1 ピン 1 を Net-(U1_1-VDDA) に接続しました。
+FB1_1 ピン 2 を +3.3V に接続しました。
+Q4_8 (フットプリント 'Package_TO_SOT_THT:TO-18-2')を追加します。
+REF** リファレンス指定子を Q4_8 へ変更しました。
+Q4_8 の値を TO-18-2 から ST-1KL3A に変更しました。
+Q4_8 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/cdb3304b-1e6b-47b6-bd5a-2ceeaf6dfadd へ変更しました。
+Q4_8 のプロパティを更新しました。
+Q2_1 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/e2d08eb1-b417-4e89-ab4b-9989c873dcba へ変更しました。
+Q4_8 ピン 2 を DIST_ADC_4 に接続しました。
+Q4_7 (フットプリント 'Package_TO_SOT_THT:TO-18-2')を追加します。
+REF** リファレンス指定子を Q4_7 へ変更しました。
+FB1_1 シンボルの関連付けを  から /488813d6-e4dc-4224-b48d-0875de90d3a7 へ変更しました。
+Q4_7 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/aaf057cc-5cc0-4fda-8307-338161fed2f7 へ変更しました。
+ネット Net-(U1_1-VDDA) を追加します。
+Q4_7 ピン 1 を +3.3V に接続しました。
+Q4_7 ピン 2 を DIST_ADC_3 に接続しました。
+Q4_6 (フットプリント 'Package_TO_SOT_THT:TO-18-2')を追加します。
+REF** リファレンス指定子を Q4_6 へ変更しました。
+Q4_6 の値を TO-18-2 から ST-1KL3A に変更しました。
+Q4_6 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/27053ae3-068d-4b34-85f2-761b2105e3d0 へ変更しました。
+Q4_6 のプロパティを更新しました。
+U2_2 ピン 3 を +8V に接続しました。
+REF** リファレンス指定子を Q4_1 へ変更しました。
+Q4_1 の値を SOT-23 から IRLML6344T に変更しました。
+Q4_1 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/f1b4a3f5-8646-4d40-b8e5-863668f6f757 へ変更しました。
+U2_1 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/3b599b6b-66ac-4c7d-834a-6e0ab29d70f3 へ変更しました。
+U2_1 のプロパティを更新しました。
+Q4_1 ピン 3 を GND に接続しました。
+U2_2 (フットプリント 'Package_TO_SOT_SMD:SOT-223')を追加します。
+REF** リファレンス指定子を U2_2 へ変更しました。
+U2_2 の値を SOT-223 から AZ1117-3.3 に変更しました。
+U2_2 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/e5c1829d-d82a-4a7f-92e6-59e85b99c2c9 へ変更しました。
+U2_2 のプロパティを更新しました。
+U2_2 ピン 1 を GND に接続しました。
+U2_2 ピン 2 を +3.3V に接続しました。
+Q4_1 (フットプリント 'Package_TO_SOT_SMD:SOT-23')を追加します。
+U2_1 (フットプリント 'Package_TO_SOT_SMD:SOT-223')を追加します。
+REF** リファレンス指定子を U2_1 へ変更しました。
+U2_1 の値を SOT-223 から AZ1117-5.0 に変更しました。
+R4_11 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/3633eefb-3db5-464d-a005-35014ee2db3c へ変更しました。
+Q4_5 ピン 2 を DIST_ADC_1 に接続しました。
+U2_1 ピン 1 を GND に接続しました。
+U2_1 ピン 2 を +5V に接続しました。
+U2_1 ピン 3 を +8V に接続しました。
+U1_1 (フットプリント 'Package_QFP:LQFP-64_10x10mm_P0.5mm')を追加します。
+REF** リファレンス指定子を U1_1 へ変更しました。
+U1_1 の値を LQFP-64_10x10mm_P0.5mm から STM32F446RETx に変更しました。
+U1_1 シンボルの関連付けを  から /86502cd0-a898-4153-8558-2e9b7bfffd70 へ変更しました。
+U1_1 のプロパティを更新しました。
+Q4_3 の値を SOT-23 から IRLML6344T に変更しました。
+Q2_1 のプロパティを更新しました。
+Q2_1 ピン 1 を Net-(Q2_1-G) に接続しました。
+Q2_1 ピン 3 を +8V に接続しました。
+Q4_3 ピン 1 を Net-(Q4_3-D) に接続しました。
+FB1_1 のプロパティを更新しました。
+Q4_3 ピン 2 を Net-(Q4_3-G) に接続しました。
+REF** リファレンス指定子を Q4_4 へ変更しました。
+Q4_4 の値を SOT-23 から IRLML6344T に変更しました。
+Q4_4 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/a5cc2514-48fe-4a77-856f-e398632ced5e へ変更しました。
+Q4_4 のプロパティを更新しました。
+Q4_4 ピン 1 を Net-(Q4_4-D) に接続しました。
+Q4_4 ピン 2 を Net-(Q4_4-G) に接続しました。
+Q4_4 ピン 3 を GND に接続しました。
+Q4_3 (フットプリント 'Package_TO_SOT_SMD:SOT-23')を追加します。
+FB1_1 (フットプリント 'Resistor_SMD:R_0603_1608Metric')を追加します。
+Q4_3 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/ad7e5c04-1ace-4018-8d6c-28d290b3b830 へ変更しました。
+Q4_3 のプロパティを更新しました。
+R4_9 のプロパティを更新しました。
+Q4_4 (フットプリント 'Package_TO_SOT_SMD:SOT-23')を追加します。
+Q4_3 ピン 3 を GND に接続しました。
+Q4_2 (フットプリント 'Package_TO_SOT_SMD:SOT-23')を追加します。
+REF** リファレンス指定子を Q4_2 へ変更しました。
+Q4_2 の値を SOT-23 から IRLML6344T に変更しました。
+Q4_2 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/3f98d896-ed01-4add-ab5b-6efd24ae27f1 へ変更しました。
+Q4_2 のプロパティを更新しました。
+Q4_2 ピン 1 を Net-(Q4_2-D) に接続しました。
+Q4_2 ピン 2 を Net-(Q4_2-G) に接続しました。
+Q4_2 ピン 3 を GND に接続しました。
+R4_12 ピン 2 を GND に接続しました。
+REF** リファレンス指定子を R4_11 へ変更しました。
+R4_11 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 10 に変更しました。
+REF** リファレンス指定子を R4_13 へ変更しました。
+R4_13 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 1 に変更しました。
+ネット DIST_LED_4 を追加します。
+R4_11 ピン 1 を DIST_LED_4 に接続しました。
+ネット Net-(Q4_4-G) を追加します。
+R4_11 ピン 2 を Net-(Q4_4-G) に接続しました。
+R4_12 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R4_12 へ変更しました。
+R4_12 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 10k に変更しました。
+R4_12 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/52eee906-07d4-4fd5-b468-02b2dfb41c6b へ変更しました。
+R4_12 のプロパティを更新しました。
+R4_12 ピン 1 を Net-(Q4_4-G) に接続しました。
+R4_11 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+R4_13 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+R2_4 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/c75714f3-9fd2-4b87-973d-d0ae31e0f47f へ変更しました。
+R7_2 のプロパティを更新しました。
+R4_13 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/c2198570-587f-4407-a83e-70785bdf5ef6 へ変更しました。
+R4_13 のプロパティを更新しました。
+ネット Net-(D4_4-K) を追加します。
+R4_13 ピン 1 を Net-(D4_4-K) に接続しました。
+ネット Net-(Q4_4-D) を追加します。
+R4_13 ピン 2 を Net-(Q4_4-D) に接続しました。
+R7_2 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R7_2 へ変更しました。
+ネット Net-(D2_2-A) を追加します。
+R7_2 シンボルの関連付けを  から /2a4a29e2-e47e-4930-bef6-7bed9da88c0f/3dfabc40-4ab1-4dee-b030-d55f8c233c72 へ変更しました。
+R4_9 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 10k に変更しました。
+R4_7 ピン 1 を Net-(D4_2-K) に接続しました。
+R4_9 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/03a2edce-4d08-4ea9-a362-eff653b348ea へ変更しました。
+R4_2 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+R4_8 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R4_8 へ変更しました。
+R4_8 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 10 に変更しました。
+R4_8 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/e4544841-5568-42de-8396-270e215f9bbb へ変更しました。
+R4_8 のプロパティを更新しました。
+ネット DIST_LED_3 を追加します。
+R4_8 ピン 1 を DIST_LED_3 に接続しました。
+ネット Net-(Q4_3-G) を追加します。
+R4_8 ピン 2 を Net-(Q4_3-G) に接続しました。
+R4_9 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R4_9 へ変更しました。
+R7_2 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 10k に変更しました。
+R2_5 のプロパティを更新しました。
+R4_7 ピン 2 を Net-(Q4_2-D) に接続しました。
+R4_9 ピン 1 を Net-(Q4_3-G) に接続しました。
+R4_9 ピン 2 を GND に接続しました。
+R4_10 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R4_10 へ変更しました。
+R4_10 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 1 に変更しました。
+R4_10 シンボルの関連付けを  から /dfd8b513-1f63-464b-abba-f89642a821ce/0a9cbb33-6af5-4752-a3d2-507708f5fafe へ変更しました。
+R4_10 のプロパティを更新しました。
+ネット Net-(D4_3-K) を追加します。
+R4_10 ピン 1 を Net-(D4_3-K) に接続しました。
+ネット Net-(Q4_3-D) を追加します。
+R4_10 ピン 2 を Net-(Q4_3-D) に接続しました。
+R7_1 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+R1_1 ピン 2 を GND に接続しました。
+R2_2 ピン 1 を +8V に接続しました。
+REF** リファレンス指定子を R7_1 へ変更しました。
+ネット +5V を追加します。
+R2_4 ピン 1 を +5V に接続しました。
+ネット Net-(D2_1-A) を追加します。
+R2_4 ピン 2 を Net-(D2_1-A) に接続しました。
+R1_1 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R1_1 へ変更しました。
+R1_1 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 10k に変更しました。
+R1_1 シンボルの関連付けを  から /97690d1b-b178-4e25-bab3-713cf87564ad へ変更しました。
+R1_1 のプロパティを更新しました。
+ネット BOOT0 を追加します。
+R1_1 ピン 1 を BOOT0 に接続しました。
+R2_4 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 620 に変更しました。
+R2_4 のプロパティを更新しました。
+R4_11 のプロパティを更新しました。
+R7_1 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 10 に変更しました。
+R7_1 シンボルの関連付けを  から /2a4a29e2-e47e-4930-bef6-7bed9da88c0f/67f1b5ae-089c-4d53-8ce1-1d34d4c1fb31 へ変更しました。
+R7_1 のプロパティを更新しました。
+ネット FAN_MOTOR_PWM を追加します。
+R7_1 ピン 1 を FAN_MOTOR_PWM に接続しました。
+R7_1 ピン 2 を Net-(Q7_1-G) に接続しました。
+R2_5 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R2_5 へ変更しました。
+R2_5 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 280 に変更しました。
+R2_5 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/fa6ed1de-2937-488a-bbff-7348c1968753 へ変更しました。
+R2_5 ピン 1 を +3.3V に接続しました。
+R2_2 ピン 2 を BAT_ADC に接続しました。
+ネット Net-(Q4_2-D) を追加します。
+R7_2 ピン 1 を Net-(Q7_1-G) に接続しました。
+R7_2 ピン 2 を GND に接続しました。
+R2_1 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R2_1 へ変更しました。
+R2_1 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 100k に変更しました。
+R2_1 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/f03c61a5-b2ae-475f-8730-7265c3c22097 へ変更しました。
+R2_1 のプロパティを更新しました。
+ネット Net-(BT2_1-+) を追加します。
+R2_1 ピン 1 を Net-(BT2_1-+) に接続しました。
+R2_1 ピン 2 を Net-(Q2_1-G) に接続しました。
+R2_2 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R2_2 へ変更しました。
+ネット Net-(Q7_1-G) を追加します。
+ネット BAT_ADC を追加します。
+R2_3 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R2_3 へ変更しました。
+R2_2 のプロパティを更新しました。
+R2_3 シンボルの関連付けを  から /095bf668-b079-4330-a0e4-b1270338e20d/9cd795d1-b9ba-42cc-bdea-37b41038fcc9 へ変更しました。
+R2_3 のプロパティを更新しました。
+R2_3 ピン 1 を BAT_ADC に接続しました。
+R2_3 ピン 2 を GND に接続しました。
+R2_4 (フットプリント 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder')を追加します。
+REF** リファレンス指定子を R2_4 へ変更しました。
+R2_3 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 1k に変更しました。
+R2_2 の値を R_0603_1608Metric_Pad0.98x0.95mm_HandSolder から 2k に変更しました。
+警告: シンボル U2_1 ピン 4 に対するネットが見つかりません。
+警告: シンボル U5_1 ピン 13 に対するネットが見つかりません。
+警告: シンボル U5_1 ピン 8 に対するネットが見つかりません。
+警告: シンボル U2_2 ピン 4 に対するネットが見つかりません。
+
+
+情報: 合計警告数: 4、エラー数: 0.
