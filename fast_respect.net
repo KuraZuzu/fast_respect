@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/kurasawa/Projects/kicad_projects/fast_respect/fast_respect.kicad_sch")
-    (date "Fri Nov 24 04:51:27 2023")
+    (date "Sat Nov 25 20:08:50 2023")
     (tool "Eeschema 7.0.8-7.0.8~ubuntu22.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -279,7 +279,7 @@
       (tstamps "86502cd0-a898-4153-8558-2e9b7bfffd70"))
     (comp (ref "BT2_1")
       (value "Battery")
-      (footprint "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical")
+      (footprint "Self-Made_Generic_Packages:2sBattery")
       (libsource (lib "Device") (part "Battery") (description "Multiple-cell battery"))
       (property (name "Sheetname") (value "POWER"))
       (property (name "Sheetfile") (value "power.kicad_sch"))

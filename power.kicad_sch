@@ -1373,7 +1373,7 @@
     (property "Value" "Battery" (at 74.93 98.4885 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical" (at 71.12 96.266 90)
+    (property "Footprint" "Self-Made_Generic_Packages:2sBattery" (at 71.12 96.266 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 71.12 96.266 90)
