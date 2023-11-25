@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/kurasawa/Projects/kicad_projects/fast_respect/fast_respect.kicad_sch")
-    (date "Sat Nov 25 20:08:50 2023")
+    (date "2023年11月25日 22時04分32秒")
     (tool "Eeschema 7.0.8-7.0.8~ubuntu22.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -420,7 +420,7 @@
       (tstamps "ecc27d84-8897-480d-a942-26a6835ec1b7"))
     (comp (ref "U2_1")
       (value "AZ1117-5.0")
-      (footprint "Package_TO_SOT_SMD:SOT-223")
+      (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
       (datasheet "https://www.diodes.com/assets/Datasheets/AZ1117.pdf")
       (libsource (lib "Regulator_Linear") (part "AZ1117-5.0") (description "1A 20V Fixed LDO Linear Regulator, 5.0V, SOT-89/SOT-223/TO-220/TO-252/TO-263"))
       (property (name "Sheetname") (value "POWER"))
@@ -431,7 +431,7 @@
       (tstamps "3b599b6b-66ac-4c7d-834a-6e0ab29d70f3"))
     (comp (ref "U2_2")
       (value "AZ1117-3.3")
-      (footprint "Package_TO_SOT_SMD:SOT-223")
+      (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
       (datasheet "https://www.diodes.com/assets/Datasheets/AZ1117.pdf")
       (libsource (lib "Regulator_Linear") (part "AZ1117-3.3") (description "1A 20V Fixed LDO Linear Regulator, 3.3V, SOT-89/SOT-223/TO-220/TO-252/TO-263"))
       (property (name "Sheetname") (value "POWER"))
