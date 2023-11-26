@@ -725,8 +725,8 @@
     (pin "3" (uuid 42442019-d929-4be0-b1f0-3c5a583bfd24))
     (pin "4" (uuid e89a612f-3ccf-4304-afad-3458e0920568))
     (pin "5" (uuid 40bc9549-d1cc-437c-aa63-529c8838e685))
-    (pin "6" (uuid cfbcff16-989b-40f8-be9a-0b47df08e956))
-    (pin "6" (uuid cfbcff16-989b-40f8-be9a-0b47df08e956))
+    (pin "6" (uuid cfbcff16-989b-40f8-be9a-0b47df08e957))
+    (pin "6" (uuid cfbcff16-989b-40f8-be9a-0b47df08e957))
     (pin "7" (uuid 81b49aa4-26d3-4e34-97b3-dc24fe7288f4))
     (pin "9" (uuid 49b035b1-d51e-4d60-a0c5-9876b642b505))
     (instances
