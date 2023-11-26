@@ -1,4 +1,4 @@
-22076198882359891
+22077899908853148
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51708,6 +51708,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DRV8835
+DRV8835_ThermalExpanded_WSON-12-1EP
+WSON-12 http://www.ti.com/lit/ds/symlink/lm27762.pdf
+WSON-12
+0
+15
+13
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
