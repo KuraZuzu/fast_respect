@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/kurasawa/Projects/kicad_projects/fast_respect/fast_respect.kicad_sch")
-    (date "2023年11月27日 03時39分22秒")
+    (date "2023年11月27日 03時54分20秒")
     (tool "Eeschema 7.0.8-7.0.8~ubuntu22.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -1219,8 +1219,9 @@
         (pin (num "3") (name "AOUT2") (type "output"))
         (pin (num "4") (name "BOUT1") (type "output"))
         (pin (num "5") (name "BOUT2") (type "output"))
-        (pin (num "6") (name "BIN1/B_PHASE") (type "input"))
+        (pin (num "6") (name "GND") (type "power_in"))
         (pin (num "7") (name "BIN2/B_ENABLE") (type "input"))
+        (pin (num "8") (name "BIN1/B_PHASE") (type "input"))
         (pin (num "9") (name "AIN2/A_ENABLE") (type "input"))
         (pin (num "10") (name "AIN1/A_PHASE") (type "input"))
         (pin (num "11") (name "Mode") (type "input"))
@@ -1740,7 +1741,7 @@
       (node (ref "U5_1") (pin "5") (pinfunction "BOUT2") (pintype "output")))
     (net (code "31") (name "MOTOR2_PHASE")
       (node (ref "U1_1") (pin "43") (pinfunction "PA10") (pintype "bidirectional"))
-      (node (ref "U5_1") (pin "6") (pinfunction "BIN1/B_PHASE") (pintype "input")))
+      (node (ref "U5_1") (pin "8") (pinfunction "BIN1/B_PHASE") (pintype "input")))
     (net (code "32") (name "MOTOR2_PWM")
       (node (ref "U1_1") (pin "42") (pinfunction "PA9") (pintype "bidirectional"))
       (node (ref "U5_1") (pin "7") (pinfunction "BIN2/B_ENABLE") (pintype "input")))
