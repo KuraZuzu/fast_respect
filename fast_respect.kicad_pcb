@@ -1622,7 +1622,7 @@
 
   (footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm" (layer "F.Cu")
     (tstamp 3cfeae6e-be61-4acf-a1a5-7cb41e71419a)
-    (at -41 -38 -135)
+    (at -35 54 -135)
     (descr "LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "LQFP QFP")
     (property "Sheetfile" "fast_respect.kicad_sch")
