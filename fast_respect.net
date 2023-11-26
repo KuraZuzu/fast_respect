@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/kurasawa/Projects/kicad_projects/fast_respect/fast_respect.kicad_sch")
-    (date "2023年11月27日 03時54分20秒")
+    (date "2023年11月27日 04時44分36秒")
     (tool "Eeschema 7.0.8-7.0.8~ubuntu22.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -1045,7 +1045,7 @@
       (tstamps "338f693a-86e2-4eb6-ab37-7cbe5e180be2"))
     (comp (ref "U5_1")
       (value "DRV8835DSSR")
-      (footprint "Self-Made_Generic_Packages:WSON-12-1EP_ExpandPad_3x2mm_P0.5mm_EP1x2.65")
+      (footprint "DRV8835:DRV8835_ThermalExpanded_WSON-12-1EP")
       (libsource (lib "DRV8835") (part "DRV8835") (description ""))
       (property (name "Sheetname") (value "MOTOR and ENCODER"))
       (property (name "Sheetfile") (value "motor_and_encoder.kicad_sch"))
@@ -1212,7 +1212,9 @@
         (pin (num "8") (name "Pin_8") (type "passive"))))
     (libpart (lib "DRV8835") (part "DRV8835")
       (fields
-        (field (name "Reference") "U"))
+        (field (name "Reference") "U")
+        (field (name "Value") "DRV8835DSSR")
+        (field (name "Footprint") "DRV8835:DRV8835_ThermalExpanded_WSON-12-1EP"))
       (pins
         (pin (num "1") (name "VM") (type "power_in"))
         (pin (num "2") (name "AOUT1") (type "output"))
