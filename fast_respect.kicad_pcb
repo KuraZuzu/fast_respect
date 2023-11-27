@@ -469,7 +469,7 @@
 
   (footprint "Diode_SMD:D_SOD-123F" (layer "F.Cu")
     (tstamp 068afb2c-2f45-4589-b609-3ebecbf05b1a)
-    (at -13.2 37 90)
+    (at -19.25 37 90)
     (descr "D_SOD-123F")
     (tags "D_SOD-123F")
     (property "Sheetfile" "suction_fan.kicad_sch")
@@ -1518,7 +1518,7 @@
 
   (footprint "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical" (layer "F.Cu")
     (tstamp 371ffc0f-9dc6-48d9-a926-ab462439e188)
-    (at -17.75 37.25 90)
+    (at -15.5 37 90)
     (descr "JST PH series connector, B2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST PH side entry")
     (property "Sheetfile" "suction_fan.kicad_sch")
