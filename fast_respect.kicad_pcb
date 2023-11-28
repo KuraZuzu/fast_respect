@@ -2345,7 +2345,7 @@
 
   (footprint "Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 51331557-afd5-46ee-9677-0536e17e1627)
-    (at -38.68 84.5 180)
+    (at -38.68 84.38 180)
     (descr "Through hole IDC box header, 2x03, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0")
     (tags "Through hole vertical IDC box header THT 2x03 2.54mm double row")
     (property "Sheetfile" "motor_and_encoder.kicad_sch")
@@ -4738,7 +4738,7 @@
 
   (footprint "Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp be063f51-f10e-4224-8705-2de918fa6778)
-    (at -31.32 79.42)
+    (at -31.32 79.3)
     (descr "Through hole IDC box header, 2x03, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0")
     (tags "Through hole vertical IDC box header THT 2x03 2.54mm double row")
     (property "Sheetfile" "motor_and_encoder.kicad_sch")
