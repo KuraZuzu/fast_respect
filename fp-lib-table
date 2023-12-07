@@ -3,4 +3,6 @@
   (lib (name "Self-Made_Generic_Packages")(type "KiCad")(uri "${KIPRJMOD}/self-made_parts_lib/self-made_generic_packages")(options "")(descr ""))
   (lib (name "SMT-0440-T-HT-R")(type "KiCad")(uri "${KIPRJMOD}/self-made_parts_lib/SMT-0440-T-HT-R.pretty")(options "")(descr ""))
   (lib (name "DRV8835")(type "KiCad")(uri "${KIPRJMOD}/self-made_parts_lib/DRV8835.pretty")(options "")(descr ""))
+  (lib (name "ICM-42688-P")(type "KiCad")(uri "${KIPRJMOD}/self-made_parts_lib/ICM-42688-P.pretty")(options "")(descr ""))
+  (lib (name "AON7421")(type "KiCad")(uri "${KIPRJMOD}/self-made_parts_lib/AON7421.pretty")(options "")(descr ""))
 )
