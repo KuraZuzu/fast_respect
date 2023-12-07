@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "DRV8835")(type "KiCad")(uri "${KIPRJMOD}/self-made_parts_lib/DRV8835.pretty/DRV8835.kicad_sym")(options "")(descr ""))
   (lib (name "ICM-42688-P")(type "KiCad")(uri "${KIPRJMOD}/self-made_parts_lib/ICM-42688-P.pretty/ICM-42688-P.kicad_sym")(options "")(descr ""))
+  (lib (name "SMT-0440-T-HT-R")(type "KiCad")(uri "${KIPRJMOD}/self-made_parts_lib/SMT-0440-T-HT-R.pretty/SMT-0440-T-HT-R.kicad_sym")(options "")(descr ""))
+  (lib (name "AON7421")(type "KiCad")(uri "${KIPRJMOD}/self-made_parts_lib/AON7421.pretty/AON7421.kicad_sym")(options "")(descr ""))
 )
