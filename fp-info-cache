@@ -1,4 +1,4 @@
-22183166895154844
+22186570886656742
 AON7421
 AON7421
 
@@ -51813,6 +51813,20 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DIstance-Sensor
+DIstance-Sensor_LED_D5.0mm
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+DIstance-Sensor
+DIstance-Sensor_PHTR_D5.0mm
+TO-18-2
+TO-18-2
+0
+2
+2
 DRV8835
 DRV8835_ThermalExpanded_WSON-12-1EP
 WSON-12 http://www.ti.com/lit/ds/symlink/lm27762.pdf

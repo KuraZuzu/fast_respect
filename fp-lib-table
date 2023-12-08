@@ -5,4 +5,5 @@
   (lib (name "DRV8835")(type "KiCad")(uri "${KIPRJMOD}/self-made_parts_lib/DRV8835.pretty")(options "")(descr ""))
   (lib (name "ICM-42688-P")(type "KiCad")(uri "${KIPRJMOD}/self-made_parts_lib/ICM-42688-P.pretty")(options "")(descr ""))
   (lib (name "AON7421")(type "KiCad")(uri "${KIPRJMOD}/self-made_parts_lib/AON7421.pretty")(options "")(descr ""))
+  (lib (name "DIstance-Sensor")(type "KiCad")(uri "${KIPRJMOD}/self-made_parts_lib/Distance-Sensor.pretty")(options "")(descr ""))
 )
