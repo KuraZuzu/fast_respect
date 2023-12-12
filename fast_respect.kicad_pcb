@@ -7086,6 +7086,7 @@
   (via (at -26.9 26.8) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (free) (net 6) (tstamp 14692135-bfd8-4bda-8f6b-49260ab01bd2))
   (via (at -40.05 47.15) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (free) (net 6) (tstamp 14d4b9a7-21e0-4a4f-83fe-67b21b21c89f))
   (via (at -35 15.65) (size 1) (drill 0.5) (layers "F.Cu" "B.Cu") (free) (net 6) (tstamp 1534b70b-29b4-4299-bf8c-1a1d9e79b76f))
+  (via (at -45.64 90.74) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (free) (net 6) (tstamp 1555fa53-e6e8-4fe8-825b-3ee2312c3d4a))
   (via (at -16 21.5) (size 1) (drill 0.5) (layers "F.Cu" "B.Cu") (free) (net 6) (tstamp 169c313a-9131-42d1-86d8-b7a5d4cc19bd))
   (via (at -39.53 90.25) (size 1.5) (drill 1) (layers "F.Cu" "B.Cu") (net 6) (tstamp 171c5428-d701-42fc-beb2-d8070a795c5a))
   (via (at -56.2 105.25) (size 1) (drill 0.5) (layers "F.Cu" "B.Cu") (free) (net 6) (tstamp 17e5150c-4cc8-46ef-904f-7016dfc24111))
@@ -15083,7 +15084,6 @@
     )
     (filled_polygon
       (layer "F.Cu")
-      (island)
       (pts
         (xy -45.360666 90.09706)
         (xy -45.304733 90.138932)
