@@ -3191,7 +3191,7 @@
 
   (footprint "RT_marks:RTmark_7x7mm" (layer "F.Cu")
     (tstamp 6cdc9840-e889-445d-b5a4-dcc530538e91)
-    (at 118 54.85)
+    (at 116.5 55)
     (attr through_hole)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
         (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -4848,7 +4848,7 @@
     (property "ki_keywords" "R res resistor")
     (path "/dfd8b513-1f63-464b-abba-f89642a821ce/7552d049-5ff1-479b-9759-be54146281e0")
     (attr smd)
-    (fp_text reference "R4_6" (at 3.7 -0.03) (layer "F.SilkS")
+    (fp_text reference "R4_6" (at 3.43 -0.03) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 472dd74e-064c-4cc4-96a8-59fe1b55ab3f)
     )
